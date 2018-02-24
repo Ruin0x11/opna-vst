@@ -1,6 +1,0 @@
-﻿  Hiopna.cpp
-..\..\Source\Hiopna.cpp(35): warning C4244: '=': conversion from 'double' to 'UINT16', possible loss of data
-..\..\Source\Hiopna.cpp(71): warning C4244: '=': conversion from 'double' to 'UINT16', possible loss of data
-..\..\Source\Hiopna.cpp(141): warning C4245: 'argument': conversion from 'int' to 'UINT32', signed/unsigned mismatch
-..\..\Source\Hiopna.cpp(159): warning C4189: 'indexR': local variable is initialized but not referenced
-  opna_SharedCode.vcxproj -> C:\Users\kadode\build\opna\Builds\VisualStudio2017\x64\Debug\Shared Code\opna.lib
